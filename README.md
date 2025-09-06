@@ -153,12 +153,7 @@ This project is licensed under the [MIT License](LICENSE).
 * [Redux-Saga](https://redux-saga.js.org/)
 * [Jest](https://jestjs.io/)
 * [React Native Maps](https://github.com/react-native-maps/react-native-maps)
-
----
-
-## 📞 Support
-
-For questions or suggestions, feel free to open an issue or reach out via email.
+* Source- https://github.com/iZaL/real-estate-app-ui
 
 ---
 
