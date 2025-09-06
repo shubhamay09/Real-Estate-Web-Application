@@ -11,7 +11,6 @@ This app is designed for **cross-platform** support (iOS & Android) and features
 ---
 
 ## 📖 Table of Contents
-- [Demo](#-demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
