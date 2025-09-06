@@ -28,15 +28,6 @@ This app is designed for **cross-platform** support (iOS & Android) and features
 
 ---
 
-## 🎥 Demo
-Add screenshots or GIFs here for better visualization.  
-
-| Home Screen            | Property Details         | Map View            |
-|------------------------|---------------------------|---------------------|
-| ![Home](demo/home.png)  | ![Details](demo/details.png) | ![Map](demo/map.png) |
-
----
-
 ## ✨ Features
 - 🏘 **Property Listings** with images, descriptions, and pricing details  
 - 📍 **Map Integration** for viewing property locations visually  
